@@ -53,7 +53,7 @@ https://github.com/oliveiramn/instaladorwtck.git
 Notas Rápidas: </br>
 Requer servidor Ubuntu 20.04 LTS com ao menos 4 vcore e 8gb de ram.</br>
 Recomendamos Hostinger,Peramix, Contabo, e Hetzner</br>
-Não recomendamos Hostinger, Hostgator e Locaweb.</br>
+Não recomendamos KingHost, Hostgator e Locaweb.</br>
 Evite latencia muito baixa e muito alta (servidor local e servidores na Europa)</br>
 
 
